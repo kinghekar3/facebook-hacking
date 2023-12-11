@@ -12,7 +12,18 @@ It is a script that makes guessing on the password
 ان السكربت هو عبارة عن تخمين
 
 
+
+
+
+
 انا لااتحمل مسؤليتك لسوء استخدامك لهذه الاداة
+
+
+
+
+
+
+
 git clone https://github.com/kinghekar3/facebook-hacking.git
 
 
